@@ -1,0 +1,13 @@
+pandas
+matplotlib
+plotly
+dash
+pymysql
+sqlalchemy
+scikit-learn
+mlxtend
+fastapi
+uvicorn
+apache-airflow
+reportlab
+requests
